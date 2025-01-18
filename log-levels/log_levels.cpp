@@ -5,7 +5,7 @@ namespace log_line
     std::string message(std::string line)
     {
         int messageIndex = line.find(":");
-        return line.substr(messageIndex + 1);
+        return line.substr(messageIndex+2);
     }
 
     std::string log_level(std::string line)
@@ -17,6 +17,6 @@ namespace log_line
 
     std::string reformat(std::string line)
     {
-        return log_line::message, " (", log_line::log_level, ")";
+        return message(line) + " (" + log_level(line) + ")";
     }
 }
