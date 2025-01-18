@@ -627,13 +627,45 @@ CMakeFiles/last-will.dir/test/tests-main.cpp.o: /home/onel/exercism/cpp/last-wil
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
 
-last-will: /usr/lib/libc.so \
+last-will: /usr/lib/Scrt1.o \
+  /usr/lib/crti.o \
+  /usr/lib/crtn.o \
+  /usr/lib/libc.so \
   /usr/lib/libgcc_s.so \
+  /usr/lib/libgcc_s.so.1 \
   /usr/lib/libm.so \
-  /usr/lib/ld-linux-x86-64.so.2
+  /usr/lib/libstdc++.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtbeginS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtendS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a \
+  /usr/lib/ld-linux-x86-64.so.2 \
+  /usr/lib/libc.so.6 \
+  /usr/lib/libc_nonshared.a \
+  /usr/lib/libm.so.6 \
+  /usr/lib/libmvec.so.1 \
+  CMakeFiles/last-will.dir/last_will_test.cpp.o \
+  CMakeFiles/last-will.dir/test/tests-main.cpp.o
 
+
+CMakeFiles/last-will.dir/test/tests-main.cpp.o:
+
+CMakeFiles/last-will.dir/last_will_test.cpp.o:
+
+/usr/lib/libmvec.so.1:
+
+/usr/lib/libc_nonshared.a:
+
+/usr/lib/libc.so.6:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtendS.o:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtbeginS.o:
 
 /usr/lib/libm.so:
+
+/usr/lib/crti.o:
 
 /usr/include/string.h:
 
@@ -764,6 +796,8 @@ last-will: /usr/lib/libc.so \
 /usr/include/sys/ucontext.h:
 
 /usr/include/stdc-predef.h:
+
+/usr/lib/libm.so.6:
 
 /usr/include/c++/14.2.1/bits/parse_numbers.h:
 
@@ -906,6 +940,8 @@ last-will: /usr/lib/libc.so \
 /usr/include/bits/fp-logb.h:
 
 /usr/include/bits/long-double.h:
+
+/usr/lib/crtn.o:
 
 /usr/include/c++/14.2.1/bits/atomic_lockfree_defines.h:
 
@@ -1171,6 +1207,8 @@ last-will: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/bits/streambuf.tcc:
 
+/usr/lib/libgcc_s.so.1:
+
 /usr/include/c++/14.2.1/bits/streambuf_iterator.h:
 
 /usr/include/c++/14.2.1/bits/string_view.tcc:
@@ -1303,6 +1341,8 @@ last-will: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/tuple:
 
+/usr/lib/Scrt1.o:
+
 /usr/include/c++/14.2.1/array:
 
 /usr/include/c++/14.2.1/type_traits:
@@ -1340,6 +1380,8 @@ last-will: /usr/lib/libc.so \
 /usr/include/bits/types/__sigval_t.h:
 
 /usr/include/gnu/stubs-64.h:
+
+/usr/lib/libstdc++.so:
 
 /usr/include/c++/14.2.1/bits/uniform_int_dist.h:
 

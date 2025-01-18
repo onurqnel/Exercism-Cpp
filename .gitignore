@@ -1,0 +1,47 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.la
+*.so
+*.dll
+*.dylib
+
+# Build directories
+/build/
+/bin/
+/lib/
+/CMakeFiles/
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Editor/IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Core dumps
+core
+
+# Test binaries
+test/*_test
+test/*.out
+
+# Generated files
+*.generated.*
