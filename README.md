@@ -1,20 +1,20 @@
 # Exercism-Cpp
 Welcome to my C++ exercises!
 
-## 1. Fundamentals
+#### 1. Fundamentals
 - String Handling and Parsing
 - Variables, Data Types, and Basic I/O
 - Integers, Floating-Point Numbers, and Arithmetic Operations
 - Namespaces
 
-## 2. Logic and Control Flow
+#### 2. Logic and Control Flow
 - Boolean Logic and Comparisons
 - Conditional Statements
   - `if`, `else`, `switch`
 - Loops
   - `for`, `while`, `do-while`
 
-## 3. Data Structures and Containers
+#### 3. Data Structures and Containers
 - Arrays and Vectors
 - Data Structures
   - Linked Lists
@@ -22,32 +22,32 @@ Welcome to my C++ exercises!
   - Stacks
   - Queues
 
-## 4. Object-Oriented Programming 
+#### 4. Object-Oriented Programming 
 - Classes and Objects
 - References and Pointers
 - Enumerations
 - Encapsulation, Inheritance, and Polymorphism
 
-## 5. Functions and Modularity
+#### 5. Functions and Modularity
 - Functions and Modular Programming
 - Templates and Generic Programming
 
-## 6. Algorithms and Problem Solving
+#### 6. Algorithms and Problem Solving
 - Algorithms and Their Implementation
 - Mathematical Computations
 
-## 7. File and Stream Handling
+#### 7. File and Stream Handling
 - File Handling and I/O Streams
 
-## 8. Advanced Concepts
+#### 8. Advanced Concepts
 - Exception Handling
 - Multithreading and Parallel Computation
 
-## 9. Software Design
+#### 9. Software Design
 - Design Patterns and Best Practices
 
-## 10. Specialized Topics
--*String Manipulation
+#### 10. Specialized Topics
+- String Manipulation
 
 ## Installation
 
