@@ -1,54 +1,53 @@
 # Exercism-Cpp
-Welcome to my C++ exercises repository! 
-
+Welcome to my C++ exercises!
 
 ## 1. Fundamentals
-- **String Handling and Parsing**
-- **Variables, Data Types, and Basic I/O**
-- **Integers, Floating-Point Numbers, and Arithmetic Operations**
-- **Namespaces**
+- String Handling and Parsing
+- Variables, Data Types, and Basic I/O
+- Integers, Floating-Point Numbers, and Arithmetic Operations
+- Namespaces
 
 ## 2. Logic and Control Flow
-- **Boolean Logic and Comparisons**
-- **Conditional Statements**
+- Boolean Logic and Comparisons
+- Conditional Statements
   - `if`, `else`, `switch`
-- **Loops**
+- Loops
   - `for`, `while`, `do-while`
 
 ## 3. Data Structures and Containers
-- **Arrays and Vectors**
-- **Data Structures**
+- Arrays and Vectors
+- Data Structures
   - Linked Lists
   - Binary Trees
   - Stacks
   - Queues
 
-## 4. Object-Oriented Programming (OOP)
-- **Classes and Objects**
-- **References and Pointers**
-- **Enumerations**
-- **Encapsulation, Inheritance, and Polymorphism**
+## 4. Object-Oriented Programming 
+- Classes and Objects
+- References and Pointers
+- Enumerations
+- Encapsulation, Inheritance, and Polymorphism
 
 ## 5. Functions and Modularity
-- **Functions and Modular Programming**
-- **Templates and Generic Programming**
+- Functions and Modular Programming
+- Templates and Generic Programming
 
 ## 6. Algorithms and Problem Solving
-- **Algorithms and Their Implementation**
-- **Mathematical Computations**
+- Algorithms and Their Implementation
+- Mathematical Computations
 
 ## 7. File and Stream Handling
-- **File Handling and I/O Streams**
+- File Handling and I/O Streams
 
 ## 8. Advanced Concepts
-- **Exception Handling**
-- **Multithreading and Parallel Computation**
+- Exception Handling
+- Multithreading and Parallel Computation
 
 ## 9. Software Design
-- **Design Patterns and Best Practices**
+- Design Patterns and Best Practices
 
 ## 10. Specialized Topics
-- **String Manipulation**
+-*String Manipulation
 
 ## Installation
 
