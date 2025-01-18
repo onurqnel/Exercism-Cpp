@@ -1,0 +1,4 @@
+/home/onel/git/Exercism/cpp/hello-world/build/CMakeFiles/hello-world.dir
+/home/onel/git/Exercism/cpp/hello-world/build/CMakeFiles/test_hello-world.dir
+/home/onel/git/Exercism/cpp/hello-world/build/CMakeFiles/edit_cache.dir
+/home/onel/git/Exercism/cpp/hello-world/build/CMakeFiles/rebuild_cache.dir
